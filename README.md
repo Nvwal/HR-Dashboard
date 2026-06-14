@@ -12,7 +12,7 @@ An interactive Power BI dashboard designed to monitor and analyze key insights f
 4-Professional UI/UX: Styled with a polished dark/light contrast theme to maximize scannability and visual hierarchy.
 
 📷 Snapshot:
-![Dashboard Preview].(https://github.com/Nvwal/HR-Dashboard/blob/main/Dashboard%20Snapshot.png)
+![Dashboard Preview](https://github.com/Nvwal/HR-Dashboard/blob/main/Dashboard%20Snapshot.png)
 
 🔗 **Reference:** Dataset from [Kaggle](https://www.kaggle.com/datasets/rhuebner/human-resources-data-set)
 
